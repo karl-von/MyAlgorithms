@@ -1,4 +1,4 @@
-package middle.backtracking;
+package medium.backtracking;
 
 import java.util.*;
 

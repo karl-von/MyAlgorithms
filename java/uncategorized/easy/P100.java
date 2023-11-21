@@ -1,7 +1,9 @@
 package uncategorized.easy;
 
 
-import uncategorized.common.TreeNode;
+import uncategorized.common.*;
+
+
 
 public class P100 {
 
