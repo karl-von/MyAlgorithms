@@ -43,6 +43,7 @@ package medium
 // 0 <= grid[i][j] <= 100
 // There are at most 25 cells containing gold.
 func getMaximumGold(grid [][]int) int {
+
 	result := 0
 	for i := 0; i < len(grid); i++ {
 		for j := 0; j < len(grid[0]); j++ {

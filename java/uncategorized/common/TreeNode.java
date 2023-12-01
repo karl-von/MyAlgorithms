@@ -1,4 +1,4 @@
-package uncategorized.common;
+package common;
 
 public class TreeNode {
     public int val;
